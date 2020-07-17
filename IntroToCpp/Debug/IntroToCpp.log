@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\walid\Desktop\Udacity Nanodegree\IntroToCpp\IntroToCpp\main.cpp(87,32): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\walid\Desktop\Udacity Nanodegree\IntroToCpp\IntroToCpp\main.cpp(88,32): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\walid\Desktop\Udacity Nanodegree\IntroToCpp\IntroToCpp\main.cpp(196,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\walid\Desktop\Udacity Nanodegree\IntroToCpp\IntroToCpp\main.cpp(198,21): warning C4018:  '<': signed/unsigned mismatch
+  IntroToCpp.vcxproj -> C:\Users\walid\Desktop\Udacity Nanodegree\IntroToCpp\Debug\IntroToCpp.exe
